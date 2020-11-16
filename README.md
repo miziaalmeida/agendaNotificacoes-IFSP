@@ -11,4 +11,4 @@ Código em construção.
 * Eduardo Henrique Martins.
 
 ### Preview:
-![Link](https://www.loom.com/share/d39acb4a2f7f408b994576ec26f00659)
+[LinkPreview](https://www.loom.com/share/d39acb4a2f7f408b994576ec26f00659)
